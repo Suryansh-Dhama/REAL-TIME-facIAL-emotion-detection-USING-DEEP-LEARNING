@@ -59,12 +59,11 @@ The face detection is handled by OpenCV's Haar cascade classifier.
 
 The model is trained on grayscale 48x48 facial expression images.
 
-Model files are not included due to size — you can train your own or contact me for the files(email-shubhamramdhiraj@gmail.com).
+Model files are not included due to size — you can train your own or contact me for the files(email-ydvryo@gmail.com).
 ## 📄 Internship Offer Letter
 
 This project was completed as part of a 4-week internship under the **"Foundations of Artificial Intelligence"** program organized by **Edunet Foundation** in collaboration with **AICTE** and **Microsoft**.
 
-🔗 Download [Internship Offer Letter (PDF)](offer_letter.pdf)
 
 ---
 
@@ -77,7 +76,7 @@ This project was completed as part of a 4-week internship under the **"Foundatio
 
 
 🙋‍♂️ Author
-Shubham
+SURYANSH DHAMA
 B.Tech CSE (AI & ML) 
 📜 License
 This project is open-source and available under the MIT License.
